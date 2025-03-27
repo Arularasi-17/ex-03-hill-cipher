@@ -4,7 +4,7 @@
 # HILL CIPHER
 Hill Cipher using with different key values
 
-# AIM:
+## AIM:
 To develop a simple C program to implement Hill Cipher.
 
 ## DESIGN STEPS:
